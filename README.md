@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 https://thalesfortes.github.io/landing-page/</a>
+     <a href="PROJECT__URL">📱 https://thalesfortes.github.io/landing-page/ </a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
