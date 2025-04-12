@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>SCustomer acquisition landing page for DNC school</b>
+    <b>Customer acquisition landing page for DNC school</b>
 </p>
 
 <p align="center">
@@ -30,4 +30,4 @@
 
 <h2 id="started">🚀 Getting started</h2>
 
-Here you describe how to run your project locally
+Just download the project with its assets and run it with liveserve or just by opening the html document
