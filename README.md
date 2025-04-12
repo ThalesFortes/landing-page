@@ -18,9 +18,9 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="./images/print1.png" alt="Image Example" width="400px">
-    <img src="./images/print2.png" alt="Image Example" width="400px">
-    <img src="./images/print3.png" alt="Image Example" width="400px">
+    <img src="./images/print1.png" alt="Imagem da pagina demonstrando como ela e" width="250px">
+    <img src="./images/print2.png" alt="Imagem da pagina demonstrando como ela e" width="250px">
+    <img src="./images/print3.png" alt="Imagem da pagina demonstrando como ela e" width="250px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
